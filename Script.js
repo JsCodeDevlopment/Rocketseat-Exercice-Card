@@ -5,7 +5,7 @@ function active360(){
 // Condicional para alternar entre as imagens.
     if (imgBtn.src == `${url}/Leave.png`) {
         imgBtn.src = 'Vector.png'; 
-        imgOfSofa.src = 'image 2.png';
+        imgOfSofa.src = 'image-2.png';
         return;
     };
 // troca de imagens ao clicar.
